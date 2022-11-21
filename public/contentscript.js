@@ -1,5 +1,4 @@
 let element = document.createElement('section');
-console.log(element);
 
 const imagePath = './eco.mio_icon_white.png';
 
